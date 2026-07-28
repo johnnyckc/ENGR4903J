@@ -1,0 +1,24 @@
+{
+    "led-105": {
+        "direction": "1",
+        "color": "80",
+        "brightness": "255",
+        "speed": "30",
+        "length": "5"
+    },
+    "led-106": {
+        "direction": "1",
+        "color": "80",
+        "brightness": "255",
+        "speed": "30",
+        "length": "5"
+    },
+    "screen-51": {
+        "percentage": "100",
+        "voltage2": "255",
+        "voltage2": "255",
+    },
+    "windturbine-81": {
+        "speed": "30",
+    },
+}
